@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+audit-log.jsonl
+mastra.db
+mastra.db-*
+*.log
